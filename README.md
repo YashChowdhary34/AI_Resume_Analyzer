@@ -49,6 +49,3 @@ streamlit run App/App.py
 - Advanced ML-based ranking system
 - Real-time job recommendations
 - Improved UI/UX
-
-## Disclaimer
-This project is intended for educational and demonstration purposes.
